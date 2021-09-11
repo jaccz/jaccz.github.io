@@ -19,7 +19,7 @@ While my day job is in engineering, I and my team try to publish an occasional p
 * A combinatorial test generation tool. Open source on <a href="https://github.com/microsoft/pict">GitHub</a>.
 * Why code reviewing is <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2015/05/PID3556473.pdf">more complicated</a> than we assume and even more so on <a href="https://www.michaelagreiler.com/wp-content/uploads/2019/03/Code-Reviewing-in-the-Trenches-Understanding-Challenges-Best-Practices-and-Tool-Needs.pdf">large projects</a>.
 * How <a href="https://ieeexplore.ieee.org/abstract/document/6509369/">collecting engineering process data</a> is done at scale and what we <a href="https://www.sciencedirect.com/science/article/pii/B9780124115194000136"> do with it</a> once we have it.             
-* How to <a href=http://dl.acm.org/citation.cfm?id=2591176">predict which parts of code</a> will be the most problematic.
+* How to <a href="http://dl.acm.org/citation.cfm?id=2591176">predict which parts of code</a> will be the most problematic.
 * Initial work on <a href="http://chisel.cs.uvic.ca/pubs/storey-TSE2019.pdf">engineering productivity</a>.
 
 ### My other stuff

@@ -29,4 +29,4 @@ While my day job is in engineering, I and my team try to publish an occasional p
 * <a href="https://www.linkedin.com/in/jacekcz/">LinkedIn</a> has the rest.
 
 ### Contact
-Email is (still) best. I'm at: <b>jcz(at)ieee(dot)com</b>.
+Email is (still) best. I'm at: <b>jcz(at)ieee.com</b> or <b>jacekcz(at)microsoft.com</b>.

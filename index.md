@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi there, I'm Jacek, a software engineer at Microsoft. Previously, I worked on Windows, was a staff member at Microsoft Research. Currently, I'm working on <a href="https://www.microsoft.com/en-us/research/project/tools-for-software-engineers/">Microsoft's engineering system</a>.
+Hi there, I'm Jacek, a software engineer at Microsoft. Previously, I worked on Windows and was a staff member at Microsoft Research. Currently, I'm working on <a href="https://www.microsoft.com/en-us/research/project/tools-for-software-engineers/">Microsoft's engineering system</a>.
 
 I am interested in the engineering process and tooling but in particular all aspects of verification e.g. 
 <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.104.1145&rep=rep1&type=pdf">testing</a>, 
@@ -12,7 +12,7 @@ policy and compliance.
 
 I like to look at engineering practices through <a href="https://ieeexplore.ieee.org/abstract/document/6509369/">data</a> and attemtping to find what makes engineers <a href="http://chisel.cs.uvic.ca/pubs/storey-TSE2019.pdf">productive and happy</a>.
 
-While my day job is in engineering, I and my team try to publish an occasional paper. I have been (in some cases still am) on program committees of several conferences: ICSE SEIP, ISSRE, ICPC, IWCT, and SANER.
+While my day job is in engineering, my team and I try to publish an occasional paper. I have been (in some cases still am) on program committees of several conferences: ICSE SEIP, ISSRE, ICPC, IWCT, and SANER.
 
 ### Some of my more notable publications
 * My work on <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.104.1145&rep=rep1&type=pdf">combinatorial testing</a>, older but still very relevant stuff.

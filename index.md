@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Jacek Czerwonka
+description: Personal Page
 ---
 
 # Jacek Czerwonka

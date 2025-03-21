@@ -19,27 +19,27 @@ While my day job is in engineering, my team and I try to publish an occasional p
 ### Some of my more notable publications
 
 <div class="publication-item">
-* My work on <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.104.1145&rep=rep1&type=pdf">combinatorial testing</a>, older but still very relevant stuff.
+My work on <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.104.1145&rep=rep1&type=pdf">combinatorial testing</a>, older but still very relevant stuff.
 </div>
 
 <div class="publication-item">
-* A combinatorial test generation tool. Open source on <a href="https://github.com/microsoft/pict">GitHub</a>.
+A combinatorial test generation tool. Open source on <a href="https://github.com/microsoft/pict">GitHub</a>.
 </div>
 
 <div class="publication-item">
-* Why code reviewing is <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2015/05/PID3556473.pdf">more complicated</a> than we assume and even more so on <a href="https://www.michaelagreiler.com/wp-content/uploads/2019/03/Code-Reviewing-in-the-Trenches-Understanding-Challenges-Best-Practices-and-Tool-Needs.pdf">large projects</a>.
+Why code reviewing is <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2015/05/PID3556473.pdf">more complicated</a> than we assume and even more so on <a href="https://www.michaelagreiler.com/wp-content/uploads/2019/03/Code-Reviewing-in-the-Trenches-Understanding-Challenges-Best-Practices-and-Tool-Needs.pdf">large projects</a>.
 </div>
 
 <div class="publication-item">
-* How <a href="https://ieeexplore.ieee.org/abstract/document/6509369/">collecting engineering process data</a> is done at scale and what we <a href="https://www.sciencedirect.com/science/article/pii/B9780124115194000136"> do with it</a> once we have it.
+How <a href="https://ieeexplore.ieee.org/abstract/document/6509369/">collecting engineering process data</a> is done at scale and what we <a href="https://www.sciencedirect.com/science/article/pii/B9780124115194000136"> do with it</a> once we have it.
 </div>
 
 <div class="publication-item">
-* How to <a href="http://dl.acm.org/citation.cfm?id=2591176">predict which parts of code</a> will be the most problematic.
+How to <a href="http://dl.acm.org/citation.cfm?id=2591176">predict which parts of code</a> will be the most problematic.
 </div>
 
 <div class="publication-item">
-* Initial work on <a href="http://chisel.cs.uvic.ca/pubs/storey-TSE2019.pdf">engineering productivity</a>.
+Some early work on <a href="http://chisel.cs.uvic.ca/pubs/storey-TSE2019.pdf">engineering productivity</a>.
 </div>
 
 ### My other stuff

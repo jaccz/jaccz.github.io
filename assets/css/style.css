@@ -1,5 +1,7 @@
 /* Custom styles for jacekcz.com */
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Libre+Caslon+Text:wght@400&display=swap');
+
 :root {
   /* Light mode variables */
   --bg-color: #f2f0e6;
@@ -37,7 +39,7 @@
 }
 
 body {
-  font-family: 'Source Sans Pro', 'Open Sans', sans-serif;
+  font-family: 'Libre Caslon Text', serif;
   line-height: 1.6;
   color: var(--text-color);
   background-color: var(--bg-color);
@@ -55,7 +57,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat', sans-serif;
   color: var(--heading-color);
   margin-top: 1.5em;
 }

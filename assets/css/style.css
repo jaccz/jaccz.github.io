@@ -1,5 +1,7 @@
 /* Custom styles for jacekcz.com */
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap');
+
 :root {
   /* Light mode variables */
   --bg-color: #f2f0e6;
@@ -55,11 +57,10 @@ body {
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat, Georgia, Verdana, sans-serif;
   color: var(--heading-color);
   margin-top: 1.5em;
   font-weight: 400;
-  font-stretch: 90%;
 }
 
 h1 {

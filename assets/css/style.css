@@ -1,7 +1,5 @@
 /* Custom styles for jacekcz.com */
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Libre+Caslon+Text:wght@400&display=swap');
-
 :root {
   /* Light mode variables */
   --bg-color: #f2f0e6;
@@ -39,7 +37,7 @@
 }
 
 body {
-  font-family: 'Charter', 'Libre Caslon Text', serif;
+  font-family: Verdana, "Helvetica Neue", Helvetica, sans-serif;
   line-height: 1.6;
   color: var(--text-color);
   background-color: var(--bg-color);

@@ -62,6 +62,7 @@ h1, h2, h3, h4 {
   color: var(--heading-color);
   margin-top: 1.5em;
   font-weight: 400;
+  letter-spacing: 0.5px;
 }
 
 h1 {

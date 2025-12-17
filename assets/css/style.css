@@ -1,6 +1,6 @@
 /* Custom styles for jacekcz.com */
 
-@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&family=Montserrat:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cabin:wght@400;500;600;700&display=swap');
 
 :root {
   /* Light mode variables */
@@ -40,6 +40,7 @@
 
 body {
   font-family: 'Cabin', Verdana, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 13pt;
   line-height: 1.6;
   color: var(--text-color);
   background-color: var(--bg-color);
@@ -57,7 +58,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Montserrat', Georgia, Verdana, sans-serif;
+  font-family: 'Bebas Neue', 'Cabin', Georgia, Verdana, sans-serif;
   color: var(--heading-color);
   margin-top: 1.5em;
   font-weight: 400;
@@ -72,13 +73,13 @@ h2 {
 }
 
 h3 {
-  font-size: 1.82em;
+  font-size: 1.6em;
   border-bottom: 1px solid var(--border-color);
   padding-bottom: 0.3em;
 }
 
 h4 {
-  font-size: 1.56em;
+  font-size: 1.35em;
 }
 
 a {

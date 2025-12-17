@@ -1,6 +1,6 @@
 /* Custom styles for jacekcz.com */
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&family=Montserrat:wght@400&display=swap');
 
 :root {
   /* Light mode variables */
@@ -39,7 +39,7 @@
 }
 
 body {
-  font-family: Verdana, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: 'Cabin', Verdana, "Helvetica Neue", Helvetica, sans-serif;
   line-height: 1.6;
   color: var(--text-color);
   background-color: var(--bg-color);
@@ -57,7 +57,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-  font-family: Montserrat, Georgia, Verdana, sans-serif;
+  font-family: 'Montserrat', Georgia, Verdana, sans-serif;
   color: var(--heading-color);
   margin-top: 1.5em;
   font-weight: 400;
